@@ -1,1 +1,1 @@
-# made_rl_hw2
+# MADE reinforcement learning homework 2
